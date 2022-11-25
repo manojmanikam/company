@@ -7,8 +7,14 @@ public class Employee {
 
 	}
 	
+
+	private void companyAdd() {
+		System.out.println("Chennai");
+
+
 	private void companyId() {
 		System.out.println("345");
+
 	}
 	
 	public static void main(String[] args) {
