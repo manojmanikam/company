@@ -7,6 +7,10 @@ public class Employee {
 
 	}
 	
+	private void companyId() {
+		System.out.println("345");
+	}
+	
 	public static void main(String[] args) {
 		
 		Employee e = new Employee();
