@@ -7,6 +7,11 @@ public class Employee {
 
 	}
 	
+	private void compBranch() {
+		System.out.println("Tambaram");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		Employee e = new Employee();
