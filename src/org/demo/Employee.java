@@ -7,8 +7,18 @@ public class Employee {
 
 	}
 	
+
 	private void compBranch() {
 		System.out.println("Tambaram");
+
+
+	private void companyAdd() {
+		System.out.println("Chennai");
+
+
+	private void companyId() {
+		System.out.println("345");
+
 
 	}
 	
