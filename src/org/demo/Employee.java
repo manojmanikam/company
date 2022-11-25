@@ -7,6 +7,11 @@ public class Employee {
 
 	}
 	
+	private void companyAdd() {
+		System.out.println("Chennai");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		Employee e = new Employee();
